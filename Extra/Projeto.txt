@@ -1,0 +1,64 @@
+Proposta: Site onde produtores de evento e fornecedores podem colocar seus dados para ofertas de trabalho e clientes podem registrar seus projetos 
+
+Nome: EventNest
+
+
+Stakeholders: Usuarios, Clientes, Time de desenvolvimento, 
+Usuario: Produtores, Fornecedores e Clientes de eventos
+Clientes: Agencia de eventos que tem como objetivo facilitar a formação de equipes e encontro de clientes para esses eventos, recebendo uma % do contrato de cada usuario.
+
+Equipe de desenvolvimento:
+2 Developers Fullstack (1 front e 1 back)
+Designer
+scrum master
+product owner
+
+
+
+Requesitos funcionais:
+1. Permitir a criação de uma conta para o Usuario
+2. Permitir atualização dos dados de usuarios 
+3. Permitir que apenas usuarios logados possam ver os dados de contato de usuarios 
+4. 
+
+Requesitos nao funcionais:
+1. Mostre apenas os dados de contato de cada Usuario
+2. Ter um sistema de facil manutenção para o futuro
+3. Ser acessivel nas principais plataformas mobiles e browsers (top 3)
+4. 
+
+
+Historias/Criterios de aceitação
+1.Como (Produtor) quero (encontrar fornecedores e possiveis oportunidades de eventos) para (melhor concretizar meus eventos)
+>Dado que (estou na tela mostrando fornecedores) quero (procurar por fornecedores de produtos especificos) para (encontrar exatamente o que preciso)
+>Dado que (estou na tela mostrando clientes) quero (procurar eventos por porte) para (encontrar um evento que melhor se adeque as minhas capacidades)
+>Dado que (estou no meu perfil) quero (atualizar meus dados) para (indicar que estou trabalhando em um evento no momento ou estou livre para outro)
+DoR:
+
+2.Como (Fornecedor) quero (oferecer meus serviços a produtores e clientes) para (poder vender meu produto)
+>Dado que (estou na tela de eventos) quero (procurar por tipos especificos e ventos) para (oferecer meus produtos a eventos que precisam deles)
+>Dado que (estou no meu perfil) quero (atualizar meus dados) para (atualizar minha oferta de produtos)
+
+3.Como (Cliente) quero (encontrar fornecedores e produtores) para (poder realizar meu evento)
+>Dado que (estou na tela de produtores) quero (procurar produtores por especialidade) para (encontrar o produtor que melhor se adequa ao meu evento)
+>Dado que (estou no meu perfil) quero (atualizar meus dados) para (indicar que montei uma equipe e não quero mais mostrar meu evento como em procura)
+
+4.Como (Cliente, Produtor, Fornecedor) quero (logar na minha conta) para (atualizar meus dados e disponibilizar meus contatos)
+>Dado que (estou no meu perfil) quero (atualizar meus dados) para (indicar que montei uma equipe e não quero mais mostrar meu evento como em procura, meus produtos estao esgotados ou não estou disponivel para produzir um evento no momento)
+
+5.Como (Administrador) quero (controle sobre dados disponiveis no site) para (melhor moderar e evitar problemas aos usuarios)
+>Dado que (estou na interface com os dados do BD) quero (alterar dados diretamente no BD) para (evitar problemas em casos de usuarios com dados não atualizados)
+
+
+
+
+Backlog
+Registro de conta e login para cada um dos possiveis participantes
+Um banco de dados que tenha todos esses dados
+Janelas no site que mostrem todos os dados que queremos
+
+
+Miro:
+https://miro.com/app/board/uXjVJCW-P4k=/?share_link_id=198993616300
+Jira:
+https://santos89907.atlassian.net/jira/software/projects/MVP/boards/34/backlog?atlOrigin=eyJpIjoiNGY4ZDFlYzk5NDczNGJjYTk1ZjhmMjhkOWI2NjVkNzEiLCJwIjoiaiJ9
